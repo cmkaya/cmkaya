@@ -1,6 +1,10 @@
+![](https://github.com/cmkaya/cmkaya/blob/main/banner7.png)
+
 ### Hi there👋
 
-<p align="justify">I'm Cem, a passionate junior full-stack developer. In 2021, I took a course called Application Development with .NET Core for six months, but after that, I was unable to improve my skills because of my job. I worked as a government inspector for nine years and quit in 2023 to pursue my dreams.  I am passionate about something that makes me feel good, which is software development.</p>
+<p align="justify">I'm Cem, a passionate junior full-stack developer. In 2021, I took a course called Application Development with .NET Core for six months, but after that, I was unable to improve my skills because of my job. I worked as a government inspector for nine years and quit in 2023 to pursue my dreams.  
+
+I am looking forward to devoting more time to coding.</p>
 
 <br>
 <br>
